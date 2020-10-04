@@ -4,7 +4,7 @@ Contents are Under Construction. . . . Free Pizza Tomorrow
 
 ## Code Review for Artifact Enhancement
 
-<iframe align="center" width="1120" height="630" src="https://www.youtube.com/embed/IvxjohsHkxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="center" width="900" height="506" src="https://www.youtube.com/embed/IvxjohsHkxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 You can use the [editor on GitHub](https://github.com/bigbadbiz/bigbadbiz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
