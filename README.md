@@ -29,9 +29,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
-Below is my Enhancement of  
+Below is my Enhancement of Artifact two to showcase my proficiency in ALGORITHMS and DATASTRUCTURES
 
-[Link](bigbadbiz.github.io/MongoDCRUDPipeLine - Enhanced Artifact 3(BAldana).py) and ![Image](src)
+[Artifact Two Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip) and ![Image](src)
 
 
 
