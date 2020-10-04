@@ -31,11 +31,16 @@ Syntax highlighted code block
 
 Below is my Enhancement of Artifact two to showcase my proficiency in ALGORITHMS and DATASTRUCTURES
 
+Artifact two [Artifact Two Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip)
+
+
+
 [Artifact Two Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip) and ![Image](src)
 
 
 
-bigbadbiz.github.io/MongoDCRUDPipeLine - Enhanced Artifact 3(BAldana).py
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
