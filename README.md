@@ -12,24 +12,47 @@ Contents are Under Construction. . . . Free Pizza Tomorrow
 
 ## Software Engineering and Design 
 
+```markdown
+**Computational Graphics and Visualization.**   
+The artifact in this Section is a model of a Listerine bottle that includes the use of different textures, lighting techniques, and rendering
+
+```
+
 [Artifact One - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/SoftwareDesign_and_Engineering(BAldana).zip)
 
 ## Algorithms and Data Structures
 
+```markdown
+**Computational Graphics and Visualization.**   
+The artifact in this Section is a model of a Listerine bottle that includes the use of different textures, lighting techniques, and rendering
+
+```
+
 [Artifact Two - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip)
 
 ## Databases
+
+```markdown
+**Computational Graphics and Visualization.**   
+The artifact in this Section is a model of a Listerine bottle that includes the use of different textures, lighting techniques, and rendering
+
+```
 
 [Artifact Three - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Databases(BAldana).zip)
 
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
+
+
+
+
+
+
+
 Syntax highlighted code block
 
 # Header 1
@@ -45,19 +68,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
-Below is my Enhancement of Artifact two to showcase my proficiency in ALGORITHMS and DATASTRUCTURES
-
-Artifact two [Artifact Two Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip)
-
-
-
-[Artifact Two Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip) and ![Image](src)
-
-
-
-
-
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
