@@ -52,7 +52,7 @@ The artifact in this Section is a model of a Listerine bottle that includes the 
 ```
 
 ### Mongo Database CRUD and Aggregation Pipeline Python Artifact
-[MongoDB Aggregation Pipeline - Databases](MongoDBAggPipeline-Databases(BAldana).py)
+[MongoDB Aggregation Pipeline - Databases](https://raw.githubusercontent.com/bigbadbiz/bigbadbiz.github.io/master/MongoDBAggPipeline-Databases(BAldana).py)
 
 
 ### Mongo Database CRUD and Aggregation Pipeline - Full Project Download Link
