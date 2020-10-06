@@ -39,7 +39,7 @@ The artifact in this Section is a model of a Listerine bottle that includes the 
 [MongoDB CRUD - Algorithms and Data Structures](MongoDBCRUD-Algorithms_and_DataStructure(BAldana).py)
 
 
-### Mongo Database Create, Read, Update, Delete Python - Download Link
+### Mongo Database CRUD - Full Project Download Link
 [Artifact Two - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip)
 
 
@@ -55,7 +55,7 @@ The artifact in this Section is a model of a Listerine bottle that includes the 
 [MongoDB Aggregation Pipeline - Databases](MongoDBAggPipeline-Databases(BAldana).py)
 
 
-### Mongo Database CRUD and Aggregation Pipeline Python Artifact - Download Link
+### Mongo Database CRUD and Aggregation Pipeline - Full Project Download Link
 [Artifact Three - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Databases(BAldana).zip)
 
 
