@@ -22,7 +22,7 @@ The artifact in this Section is a model of a Listerine bottle that includes the 
 [Listerine OpenGL - Software Design and Engineering](ListerineOPENGL-SoftwareDesign_and_Engineering(BAldana).cpp)
 
 
-### OpenGL Listerine Bottle Artifact - Download Link
+### OpenGL Listerine Bottle Artifact - Full Project Download Link
 [Artifact One - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/SoftwareDesign_and_Engineering(BAldana).zip)
 
 
