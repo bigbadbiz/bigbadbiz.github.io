@@ -7,10 +7,20 @@ Contents are Under Construction. . . . Free Pizza Tomorrow
 <iframe align="center" width="900" height="506" src="https://www.youtube.com/embed/IvxjohsHkxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-You can use the [editor on GitHub](https://github.com/bigbadbiz/bigbadbiz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
-Artifact two [Artifact Two Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip)
+
+## Software Engineering and Design 
+
+[Artifact One - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/SoftwareDesign_and_Engineering(BAldana).zip)
+
+## Algorithms and Data Structures
+
+[Artifact Two - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip)
+
+## Databases
+
+[Artifact Three - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Databases(BAldana).zip)
 
 
 
