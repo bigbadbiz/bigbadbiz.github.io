@@ -1,19 +1,58 @@
-## Welcome to Bismark Aldana's Portfolio
+# Welcome to Bismark Aldana's Portfolio
 
 Contents are Under Construction. . . . Free Pizza Tomorrow
 
 ## Code Review for Artifact Enhancement
 
-<iframe align="center" width="1120" height="630" src="https://www.youtube.com/embed/IvxjohsHkxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="center" width="900" height="506" src="https://www.youtube.com/embed/IvxjohsHkxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-You can use the [editor on GitHub](https://github.com/bigbadbiz/bigbadbiz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+## Software Engineering and Design 
 
 ```markdown
+**Computational Graphics and Visualization.**   
+The artifact in this Section is a model of a Listerine bottle that includes the use of different textures, lighting techniques, and rendering
+
+```
+[OpenGL C++ - Listerine Bottle]
+[Artifact One - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/SoftwareDesign_and_Engineering(BAldana).zip)
+
+## Algorithms and Data Structures
+
+```markdown
+**Computational Graphics and Visualization.**   
+The artifact in this Section is a model of a Listerine bottle that includes the use of different textures, lighting techniques, and rendering
+
+```
+
+[Artifact Two - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip)
+
+## Databases
+
+```markdown
+**Computational Graphics and Visualization.**   
+The artifact in this Section is a model of a Listerine bottle that includes the use of different textures, lighting techniques, and rendering
+
+```
+
+[Artifact Three - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Databases(BAldana).zip)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Syntax highlighted code block
 
 # Header 1
@@ -29,14 +68,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
-Below is my Enhancement of  
-
-[Link](bigbadbiz.github.io/MongoDCRUDPipeLine - Enhanced Artifact 3(BAldana).py) and ![Image](src)
-
-
-
-bigbadbiz.github.io/MongoDCRUDPipeLine - Enhanced Artifact 3(BAldana).py
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
