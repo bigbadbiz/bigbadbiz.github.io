@@ -18,12 +18,14 @@ The artifact in this Section is a model of a Listerine bottle that includes the 
 
 ```
 
-
+### OpenGL Listerine Bottle Artifact
 [Listerine OpenGL - Software Design and Engineering](ListerineOPENGL-SoftwareDesign_and_Engineering(BAldana).cpp)
 
-and
 
+### OpenGL Listerine Bottle Artifact - Download Link
 [Artifact One - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/SoftwareDesign_and_Engineering(BAldana).zip)
+
+
 
 ## Algorithms and Data Structures
 
@@ -33,7 +35,13 @@ The artifact in this Section is a model of a Listerine bottle that includes the 
 
 ```
 
+### Mongo Database Create, Read, Update, Delete Python Artifact
+[Listerine OpenGL - Software Design and Engineering](MongoDBCRUD-Algorithms_and_DataStructure(BAldana).py)
+
+
+### Mongo Database Create, Read, Update, Delete Python - Download Link
 [Artifact Two - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Algorithms_and_DataStructure(BAldana).zip)
+
 
 ## Databases
 
@@ -43,6 +51,11 @@ The artifact in this Section is a model of a Listerine bottle that includes the 
 
 ```
 
+### Mongo Database CRUD and Aggregation Pipeline Python Artifact
+[Listerine OpenGL - Software Design and Engineering](MongoDBAggPipeline-Databases(BAldana).py)
+
+
+### Mongo Database CRUD and Aggregation Pipeline Python Artifact - Download Link
 [Artifact Three - Zip File with Narrartive](https://bigbadbiz.github.io/bigbadbiz.github.io/Databases(BAldana).zip)
 
 
